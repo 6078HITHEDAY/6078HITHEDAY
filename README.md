@@ -68,19 +68,6 @@
 [![License](https://img.shields.io/github/license/6078HITHEDAY/MAT?style=for-the-badge)](https://github.com/6078HITHEDAY/MAT/blob/main/LICENSE)
 > 一个给MC使用的脚本化的自动化框架
 
-#  开发指标
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=6078HITHEDAY&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6078HITHEDAY&layout=compact&hide_border=true" height="170" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=6078HITHEDAY&theme=flat&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
-
----
-
 
 # 一言
 
