@@ -74,3 +74,6 @@
 <p align="center">
   <em>I hold fast to the love I first felt for you</em>
 </p>
+
+# 赞助我
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/myflycat)
